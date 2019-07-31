@@ -1,5 +1,12 @@
 # Scanned Document Denoiser
 
+Implementation of a CNN ensemble model and CycleGAN for cleaning scanned documents, to faciliate OCR subsequently.
+Part of research undertaken during my 2019 summer internship.
+
+Inspired from denoising dirty documents Kaggle [challenge](https://www.kaggle.com/c/denoising-dirty-documents)
+
+[Medium article](https://medium.com/illuin/cleaning-up-dirty-scanned-documents-with-deep-learning-2e8e6de6cfa6) detailing the task, solutions and results. 
+
 ## To use the ensemble model (CNN or XGB):
 * Put dirty images in `data/x_train`, associated target clean images in `data/y_train`, dirty test images in `data/x_test`.
 * Run `data_augmentation.ipynb`
