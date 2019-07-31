@@ -1,6 +1,7 @@
 # Scanned Document Denoiser
 
 Implementation of a CNN ensemble model and CycleGAN for cleaning scanned documents, to faciliate OCR subsequently.
+Using an adapted [Keras implementation](https://github.com/eriklindernoren/Keras-GAN/tree/master/cyclegan) of CycleGAN.
 
 Inspired from denoising dirty documents Kaggle [challenge](https://www.kaggle.com/c/denoising-dirty-documents)
 
