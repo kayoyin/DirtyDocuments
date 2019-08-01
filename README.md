@@ -2,11 +2,7 @@
 
 Implementation of an ensemble model with CNN autoencoder and image processing as base learners, and CNN or XGB meta learner, and CycleGAN for cleaning scanned documents, to faciliate OCR subsequently.
 
-Inspired from denoising dirty documents Kaggle [challenge](https://www.kaggle.com/c/denoising-dirty-documents)
-
-[Medium article](https://medium.com/illuin/cleaning-up-dirty-scanned-documents-with-deep-learning-2e8e6de6cfa6) detailing the task, solutions and results. 
-
-## Dependencies
+For further details of the approach, my [Medium article](https://medium.com/illuin/cleaning-up-dirty-scanned-documents-with-deep-learning-2e8e6de6cfa6) explains the full project and results.
 
 ## To use the ensemble model (CNN or XGB):
 * Put dirty images in `data/x_train`, associated target clean images in `data/y_train`, dirty test images in `data/x_test`.
