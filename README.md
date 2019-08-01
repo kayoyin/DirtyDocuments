@@ -21,4 +21,4 @@ For further details of the approach, my [Medium article](https://medium.com/illu
 * [Image Processing in OpenCV](https://docs.opencv.org/2.4/doc/tutorials/imgproc/table_of_content_imgproc/table_of_content_imgproc.html)
 * [Image Processing + Machine Learning in R: Denoising Dirty Documents Tutorial Series](http://blog.kaggle.com/2015/12/04/image-processing-machine-learning-in-r-denoising-dirty-documents-tutorial-series/) by Colin Priest
 * [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/pdf/1703.10593.pdf), by Zhu et al.
-* [Keras Implementation](https://github.com/eriklindernoren/Keras-GAN/tree/master/cyclegan)of CycleGAN
+* [Keras Implementation](https://github.com/eriklindernoren/Keras-GAN/tree/master/cyclegan) of CycleGAN
